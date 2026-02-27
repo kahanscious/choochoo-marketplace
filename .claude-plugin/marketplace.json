@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Provider-agnostic agent skills for intentional context control",
-    "version": "1.0.0"
+    "version": "1.0.1"
   },
   "plugins": [
     {
@@ -15,8 +15,8 @@
         "source": "url",
         "url": "https://github.com/kahanscious/choochoo.git"
       },
-      "description": "Provider-agnostic agent skills: handoff for session transitions, context-manager for loading relevant context",
-      "version": "1.0.0",
+      "description": "Provider-agnostic agent skills: handoff, context-manager, doc-gen, architecture, refactor, planner, planner-mini for intentional context control",
+      "version": "1.0.1",
       "strict": true
     }
   ]
